@@ -1,0 +1,37 @@
+What is Data ?
+Ans : In simple words Data is collection of facts , such as
+1. Numbers
+2. Words
+3. Measurements
+4. Observations
+ or we can also say, data is the name given to the basic facts and entities such
+ as names and numbers
+ examples:
+ weight, price, no of items sold, employee names, product names, images, videos,
+ sound, multimedia, symbols .
+
+ Data Types in Python:
+    1. Text Type : String
+          Alphabets ( Text type -> String / str)
+            A - Z
+            a - z
+          Special Characters ( Text type -> String / str)
+            ! @ # $ % ^ & * ( ) < > ? / { } [ ]
+    2. Numeric Types : int, float, complex
+          Numbers ( Numeric Type )
+            Non Decimal = 0, 1, 2, 3, .... 9     -> ( Integer / int )
+            Decimal     = 0.1, 0.2, 0.6, .....   -> ( float )
+
+    3. Boolean Type : True, False
+
+    4. Sequence Type : list, tuple, range
+    5. Mapping Type : dict
+    6. Set Type : set, frozenset
+    7. Binary Type: bytes, bytearray, memoryview
+
+
+
+
+
+
+
